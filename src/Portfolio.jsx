@@ -1,5 +1,5 @@
 import { useState, useEffect, useRef } from "react";
-import Img from "G:/Portfolio/Portfolio/src/assets/Aman_Passport.png";
+import Img from "./assets/Aman_Passport.png";
 
 // ── Icons ──
 const IconBriefcase = () => (
